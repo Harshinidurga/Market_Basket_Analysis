@@ -2,15 +2,22 @@
 
 An interactive Big Data Analytics project that analyzes supermarket transaction datasets to identify frequently purchased product combinations using the Apriori algorithm.
 
+---
+
 ## 🚀 Features
-- CSV Dataset Upload
-- Data Preprocessing using Apache Spark (PySpark)
-- Frequent Itemset Generation
-- Association Rule Mining
-- Interactive Streamlit Dashboard
-- Data Visualization using Matplotlib
+
+- 📂 CSV Dataset Upload
+- ⚡ Data Preprocessing using Apache Spark (PySpark)
+- 📊 Frequent Itemset Generation
+- 🔗 Association Rule Mining
+- 🎨 Interactive Streamlit Dashboard
+- 📈 Data Visualization using Matplotlib
+- 🧾 Multi-step User Interface
+
+---
 
 ## 🛠️ Tools & Technologies
+
 - Apache Spark (PySpark)
 - Python
 - Streamlit
@@ -22,16 +29,60 @@ An interactive Big Data Analytics project that analyzes supermarket transaction 
 - Visual Studio Code
 - CSV Dataset
 
-## 📂 How to Run
+---
 
-### Clone Repository
+## 📂 Project Workflow
+
+1. Upload supermarket transaction dataset
+2. Preprocess data using Apache Spark
+3. Generate transaction baskets
+4. Apply Apriori Algorithm
+5. Generate Association Rules
+6. Visualize frequent itemsets and insights
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone Repository
+
+```bash
 git clone https://github.com/Harshinidurga/Market_Basket_Analysis.git
-### Open Project Folder
-cd Market_Basket_Analysis
-### Install Required Libraries
-pip install streamlit pandas matplotlib mlxtend pyspark
-### Run Streamlit App
-streamlit run app.py
+```
 
-📊 Outcome
+### 2️⃣ Open Project Folder
+
+```bash
+cd Market_Basket_Analysis
+```
+
+### 3️⃣ Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run Streamlit Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📊 Project Outcome
+
 This project helps identify customer purchasing patterns and frequently bought-together products using Big Data Analytics techniques.
+
+---
+
+## 🧠 Applications
+
+- Supermarket Product Placement
+- Cross-Selling Strategy
+- Customer Purchase Analysis
+- Recommendation Systems
+- Retail Business Analytics
+
+---
+
