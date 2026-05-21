@@ -2,16 +2,18 @@
 
 An interactive Big Data Analytics project that analyzes supermarket transaction datasets to identify frequently purchased product combinations using the Apriori algorithm.
 
----
 # 🚀 Live Application
+---
 
 🔗 Streamlit Deployment:
 https://marketbasketanalysis-8alhngqssuxref9hr9cpsj.streamlit.app/
 
+---
 ## 🎥 Demo Video
 
-📌 Project Demonstration Video: 
+🔗 Project Demonstration Video:  
 https://drive.google.com/file/d/1yPq9psuFvyinb4ZT8Yf7XgEN14fnl5bx/view?usp=sharing
+
 ---
 
 ## 🚀 Features
