@@ -25,16 +25,12 @@ An interactive Big Data Analytics project that analyzes supermarket transaction 
 ## 📂 How to Run
 
 ### Clone Repository
-```bash
 git clone https://github.com/Harshinidurga/Market_Basket_Analysis.git
-Open Project Folder
-```bash
+### Open Project Folder
 cd Market_Basket_Analysis
-Install Required Libraries
-```bash
+### Install Required Libraries
 pip install streamlit pandas matplotlib mlxtend pyspark
-Run Streamlit App
-```bash
+### Run Streamlit App
 streamlit run app.py
 
 📊 Outcome
